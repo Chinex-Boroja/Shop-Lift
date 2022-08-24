@@ -1,0 +1,8 @@
+com\chineduihedioha\orderservice\service\OrderService.class
+com\chineduihedioha\orderservice\controller\OrderController.class
+com\chineduihedioha\orderservice\repository\OrderRepository.class
+com\chineduihedioha\orderservice\model\Order.class
+com\chineduihedioha\orderservice\OrderServiceApplication.class
+com\chineduihedioha\orderservice\model\OrderLineItems.class
+com\chineduihedioha\orderservice\dto\OrderRequest.class
+com\chineduihedioha\orderservice\dto\OrderLineItemsDto.class

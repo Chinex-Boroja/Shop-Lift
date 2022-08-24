@@ -1,0 +1,5 @@
+com\chineduihedioha\inventoryservice\model\Inventory.class
+com\chineduihedioha\inventoryservice\controller\InventoryController.class
+com\chineduihedioha\inventoryservice\InventoryServiceApplication.class
+com\chineduihedioha\inventoryservice\repository\InventoryRepository.class
+com\chineduihedioha\inventoryservice\service\InventoryService.class

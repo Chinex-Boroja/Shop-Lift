@@ -1,0 +1,10 @@
+com\chineduihedioha\product\dto\ProductResponse.class
+com\chineduihedioha\product\dto\ProductResponse$ProductResponseBuilder.class
+com\chineduihedioha\product\service\ProductService.class
+com\chineduihedioha\product\ProductApplication.class
+com\chineduihedioha\product\controller\ProductController.class
+com\chineduihedioha\product\dto\ProductRequest.class
+com\chineduihedioha\product\model\Product.class
+com\chineduihedioha\product\repository\ProductRepository.class
+com\chineduihedioha\product\dto\ProductRequest$ProductRequestBuilder.class
+com\chineduihedioha\product\model\Product$ProductBuilder.class
